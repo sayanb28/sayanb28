@@ -1,8 +1,8 @@
-# <img src="https://github.com/sayanb28/SayanBera/assets/170934465/ed7a2486-8428-4ccf-a3a0-d7bbc15149b4" width="960" height="420">
+# <img src="https://github.com/sayanb28/sayanb28/assets/170934465/22947c81-ef98-46e8-aae9-5fc047225c44">
 
 <h2 align="center">A passionate Data Analyst and Data Enthusiast</h2>
 
-- 👨🏻‍🎓 Studied B.Tech- Computer Science and engineering(CSE) from Bengal Institute of Technology(BiT, Kolkata)
+- 👨🏻‍🎓 Studied B.Tech- CSE from Bengal Institute of Technology(BiT, Kolkata)
 - 🌱 I’m currently learning **Excel, Power Bi, MySQL, Python, EDA**
 
 <h3 align="left"> 🔗 Connect With Me</h3>
