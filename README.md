@@ -1,4 +1,4 @@
-# <img src="https://github.com/sayanb28/sayanb28/assets/170934465/22947c81-ef98-46e8-aae9-5fc047225c44">
+# <img src="https://github.com/sayanb28/sayanb28/assets/170934465/fd81f031-2189-4399-b5fa-b4af0ec61e4c">
 
 <h2 align="center">A passionate Data Analyst and Data Enthusiast</h2>
 
