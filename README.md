@@ -1,19 +1,31 @@
-# <img src="https://github.com/sayanb28/sayanb28/assets/170934465/fd81f031-2189-4399-b5fa-b4af0ec61e4c">
+<img src="https://github.com/sayanb28/sayanb28/assets/170934465/3f719fcd-c3d0-43e0-aa13-0eeef3655706">
 
 <h2 align="center">A passionate Data Analyst and Data Enthusiast</h2>
 
-- 👨🏻‍🎓 Studied B.Tech- CSE from Bengal Institute of Technology(BiT, Kolkata)
-- 🌱 I’m currently learning **Excel, Power Bi, MySQL, Python, EDA**
+## 💫 About Me &#8594;
+👨🏻‍🎓 Studied B.Tech- CSE from Bengal Institute of Technology(BiT, Kolkata)<br>
+🔭 I’m currently working on Data Analytics<br>
+🌱 I’m currently learning Excel, Power BI, MySQL, Python, EDA<br>💬 Ask me about Technology & Sports
 
-<h3 align="left"> 🔗 Connect With Me</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sayanbera28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayanbera28" height="20" width="30" /></a>
-<a href="https://kaggle.com/sayan_2801" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sayan_2801" height="20" width="30" /></a>
-</p>
 
-<h3 align="left"> 💻 Languages & Tools</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <span></span> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <span></span> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <span></span> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <span></span> <a href="https://www.freeiconspng.com/images/xls-icon" target="_blank" rel="noreferrer"> <img src="https://www.freeiconspng.com/thumbs/xls-icon/excel-png-office-xlsx-icon-3.png" alt="excel" width="30" height="40"> </a> <span></span> <a href="https://1000logos.net/microsoft-power-bi-logo/" target="_blank" rel="noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo.png" width="60" height="40"></a> </p>
+## 🌐 Socials &#8594;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sayanbera28) 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayanb28&show_icons=true&locale=en" alt="sayanb28" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayanb28&" alt="sayanb28" /></p>
+## 💻 Tech Stack &#8594;
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) &nbsp; ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) &nbsp; ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) &nbsp; ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) &nbsp; ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) &nbsp; ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) &nbsp; ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) &nbsp; ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) &nbsp; ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
+## 📊 GitHub Stats &#8594;
+![](https://github-readme-stats.vercel.app/api?username=sayanb28&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sayanb28&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sayanb28&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=sayanb28&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=sayanb28&icon=5&color=11)](https://visitcount.itsvg.in)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
