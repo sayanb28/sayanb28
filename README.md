@@ -1,6 +1,6 @@
 <img src="https://github.com/sayanb28/sayanb28/assets/170934465/3f719fcd-c3d0-43e0-aa13-0eeef3655706">
 
-<h2 align="center">A passionate Data Analyst and Data Enthusiast</h2>
+<h2 align="center">Data Analyst and Tech Enthusiast</h2>
 
 ## 💫 About Me &#8594;
 👨🏻‍🎓 Studied B.Tech- CSE from Bengal Institute of Technology(BiT, Kolkata)<br>
@@ -18,8 +18,6 @@
 
 ## 📊 GitHub Stats &#8594;
 ![](https://github-readme-stats.vercel.app/api?username=sayanb28&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-<!--![](https://github-readme-streak-stats.herokuapp.com/?user=sayanb28&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sayanb28&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)-->
 
 
 ## 🔝 Top Contributed Repo
