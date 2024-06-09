@@ -20,7 +20,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=sayanb28&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 
-## 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo &#8594;
 ![](https://github-contributor-stats.vercel.app/api?username=sayanb28&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
 
