@@ -28,9 +28,6 @@
 <img align="left" alt="python" width="35px" height="38px" style="padding-right:10px" src="https://github.com/sayanb28/sayanb28/assets/170934465/9ae54b98-d806-462a-8f2a-8c2b6d3a3fae"/>
 <img align="left" alt="java" width="35px" height="35px" style="padding-right:10px;" src="https://github.com/sayanb28/sayanb28/assets/170934465/75abc8c9-c0ea-4501-9399-f6db663e74d0"/>
 <img align="left" alt="git" width="38px" height="37px" style="padding-right:10px;" src="https://github.com/sayanb28/sayanb28/assets/170934465/fa96d8c2-df0e-4b59-a724-62543a07af8d"/>
-<img align="left" alt="html" width="38px" height="35px" style="padding-right:10px;" src="https://github.com/sayanb28/sayanb28/assets/170934465/3e12a493-2309-46c4-bfbc-1ec2cf531956"/>
-<img align="left" alt="css" width="35px" height="35px" style="padding-right:10px;" src="https://github.com/sayanb28/sayanb28/assets/170934465/f1a90dc0-8641-4cd2-9660-53ebf4a11ff0"/>
-<img align="left" alt="js" width="32px" height="32px" style="padding-right:10px;" src="https://github.com/sayanb28/sayanb28/assets/170934465/8df4a77d-79e7-4458-977d-fcb369b95149"/>
 <img align="left" alt="vsCode" width="35px" height="36px" style="padding-right:10px;" src="https://github.com/sayanb28/sayanb28/assets/170934465/bd56ecf7-6d31-4815-88a2-7509085382f3"/>
 <img align="left" alt="eclipse" width="32px" height="32px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/192108892-6e9b5cdf-4e35-4a70-ad9a-801a93a07c1c.png"/>
 <img align="left" alt="powerPoint" width="35px" height="38px" style="padding-right:10px;" src="https://github.com/sayanb28/sayanb28/assets/170934465/fc87b0dc-f650-4173-94ae-06b241ce6b99"/>
