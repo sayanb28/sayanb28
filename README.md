@@ -8,6 +8,8 @@
 **`I'm an Indie Data Analyst, building my version of Data World one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems.`**
 <br />
 <br />
+
+💻 Working as an MIS-Executive (Power BI Analyst) <br>
 👨🏻‍🎓 Studied B.Tech- CSE from Bengal Institute of Technology(BiT, Kolkata)<br>
 🌱 Currently upskilling with Data Analysis, Excel, Power BI, MySQL, Python, EDA. <br>
 💬 Ask me about Technology & Sports.
